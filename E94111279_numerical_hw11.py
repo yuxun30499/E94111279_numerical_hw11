@@ -112,8 +112,6 @@ df = pd.DataFrame({
 print(df.to_string(index=False))
 
 
-# 若你要輸出 CSV，取消下面這行註解
-# df.to_csv("bvp_results.csv", index=False)
 
 # ------------------------------------------------
 # Plotting
